@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory 'd:/WORKING AREA/Udacity_Devops_cloud/udacity-aws-devop-baolm1/project-ml-microservice-kubernetes'
+python -m venv ~/.devops
+~\.devops\Scripts\activate.bat
+make: Leaving directory 'd:/WORKING AREA/Udacity_Devops_cloud/udacity-aws-devop-baolm1/project-ml-microservice-kubernetes'
+ 
