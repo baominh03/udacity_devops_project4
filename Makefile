@@ -6,8 +6,7 @@
 # (Optional) Build a simple integration test
 
 setup:
-	python -m venv ~/.devops
-	~\.devops\Scripts\activate.bat
+	python -m venv .devops
 	
 
 install:

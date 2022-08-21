@@ -4,7 +4,7 @@
 
 # Step 1:
 # Build image and add a descriptive tag
-docker build --tag=api .
+docker build . -t baolm:latest
 
 # Step 2: 
 # List docker images
@@ -12,4 +12,7 @@ docker image ls
 
 # Step 3: 
 # Run flask app
-docker run -p 8080:80 api
+docker run -p 8080:80 baolm:latest
+
+
+read -t 10 -p "I am going to wait for 10 seconds only ..."

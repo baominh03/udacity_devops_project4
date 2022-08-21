@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-PORT=8000
+PORT=8080
 echo "Port: $PORT"
 
 # POST method predict
@@ -26,3 +26,6 @@ curl -d '{
 }'\
      -H "Content-Type: application/json" \
      -X POST http://localhost:$PORT/predict
+
+     
+read -t 10 -p "I am going to wait for 10 seconds only ..."
