@@ -1,6 +1,6 @@
-<include a CircleCI status badge, here>
-https://app.circleci.com/pipelines/github/baominh03/udacity_devops_project4
-[![CircleCI](https://app.circleci.com/pipelines/github/baominh03/udacity_devops_project4/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/baominh03/udacity_devops_project4/tree/master)
+
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/baominh03/udacity_devops_project4/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/baominh03/udacity_devops_project4/tree/main)
+
 
 ## Project Overview
 
